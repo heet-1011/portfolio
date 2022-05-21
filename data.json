@@ -1,0 +1,221 @@
+{
+     "Android": [ 
+          {
+               "title": "Appoindone",
+               "projectProfileUrl": "https://drive.google.com/uc?id=1rBnp3TVF4SBc6vxDBoS60r3yRBi0fdVO",
+               "projectDataUrlSource": "fa fa-github",
+               "projectDataUrl": "https://github.com/heet-1011/ap_trial",
+               "projectMediaUrls": [
+                    "https://drive.google.com/uc?id="
+               ],
+               "description": "This project aims to book an appointment of a doctor through a mobile application enabling person from any region to book an appointment according to their schedule and as per the availability of the specific doctor. Also they can check the crowdness level on any specific day and time. After the payment patient gets a digital token as a proof of confirm appointment in form of pdf. It is combined with many other features like keeping track of health of the user, searching according to location, etc.",
+               "explicitImageStyling":"background-color:white"
+          },
+          {
+               "title": "Food Corner Billing App",
+               "projectProfileUrl": "https://drive.google.com/uc?id=1Du67qwhkQmbJ7aXZBy34MV-A0hzxpsT-",
+               "projectDataUrlSource": "fa fa-github",
+               "projectDataUrl": "https://github.com/heet-1011/",
+               "projectMediaUrls": [
+                    "https://drive.google.com/uc?id=1Du67qwhkQmbJ7aXZBy34MV-A0hzxpsT-",
+                    "https://drive.google.com/uc?id=1NlCxVgKEL1BKy6hl3NE1FSoHPhhfLmvE",
+                    "https://drive.google.com/uc?id=1iGVOpI4PuechVjBQyue6XlTWLK2eyOXt"
+               ],
+               "description": "This app aims to provide service to restaurant for maintaining their daily openings-closings and also to generate bill which is directly sent to customer via Whats-app.",
+               "explicitImageStyling":"background-color:#e6f9e6;"
+          },
+          {
+               "title": "Sign Language Translator",
+               "projectProfileUrl": "https://drive.google.com/uc?id=1TEd7S41yVx5xQaBUlr_QMiLDj1TRtDpy",
+               "projectDataUrlSource": "fa fa-github",
+               "projectDataUrl": "https://github.com/heet-1011/sign_language_translator",
+               "projectMediaUrls": [
+                    "https://drive.google.com/uc?id=1TEd7S41yVx5xQaBUlr_QMiLDj1TRtDpy",
+                    "https://drive.google.com/uc?id=1Ln6ygs-BN-2vKoM2-mVRKX12wX_T4p-5"
+               ],
+               "description": "This project provides one of the solutions to increase the communication of Deaf and Dumb peoples with the normal peoples. By using the capabilities of Machine Learning and Image processing algorithms available in TensorFlow Library we make the working mobile application. In which, user has to capture image as input and got the output in terms of text and audio. Also their is Frequent Phrases feature of our application, there is no need of capturing the photos just they need to press single button.",
+               "explicitImageStyling":"background-color:#fff4e6;"
+          },
+          {
+               "title": "Marketing Report Application",
+               "projectProfileUrl": "https://drive.google.com/uc?id=1x82u3s6vGsX1DL_nyQ_dkmZc_uDE-oZn",
+               "projectDataUrlSource": "fa fa-github",
+               "projectDataUrl": "https://github.com/heet-1011/marketing_report",
+               "projectMediaUrls": [
+                    "https://drive.google.com/uc?id=1x82u3s6vGsX1DL_nyQ_dkmZc_uDE-oZn",
+                    "https://drive.google.com/uc?id=1RSp5wypxHA33dtR0_QBgeQsVx2LSkXRx"
+               ],
+               "description": "Marketing Report Application is basically for dealers and their salesmen, where dealer use admin side app to check their salesmen daily visit's and visit details with geolocation's, while salesmen use the user side app to add their visit details with visit's geolocation.",
+               "explicitImageStyling":"background-color:white;"
+          }
+     ],
+     "Python": [
+          {
+               "title": "Inventory Management",
+               "projectProfileUrl": "https://drive.google.com/uc?id=188VGII15cmX9RREl84n-pD1P9Z6hpWN7",
+               "projectDataUrlSource": "none",
+               "projectDataUrl": "none",
+               "projectMediaUrls": [
+                    "https://drive.google.com/uc?id=188VGII15cmX9RREl84n-pD1P9Z6hpWN7",
+                    "https://drive.google.com/uc?id=1A2FkFGa3c-VHJ0X5H3SyI22dI7_MwkvU",
+                    "https://drive.google.com/uc?id=1gZI-OvvVdC1gCiU3OUDVEuBbKNCvWVK-",
+                    "https://drive.google.com/uc?id=1XVT__klAgmvYHfJkKaCSOhO-B-a2Jxbb"
+               ],
+               "description": "Inventory management desktop software for Jewellery Shop, which can handle all sales and purchase of shop and also generate bill.",
+               "explicitImageStyling":"background-color:#c4ddf2;"
+          }
+     ],
+     "Logo": [
+          {
+               "title": "Jaimin Kothari Logo",
+               "projectProfileUrl": "https://drive.google.com/uc?id=1iyx4cTMGaMC28TnqhVsxqAZKyY0gVaxs",
+               "projectDataUrlSource": "fa fa-link",
+               "projectDataUrl": "https://www.youtube.com/channel/UCDk6jK0cFzpT9GKzmlkjSRw",
+               "projectMediaUrls": [
+                    "https://drive.google.com/uc?id=1iyx4cTMGaMC28TnqhVsxqAZKyY0gVaxs"
+               ],
+               "description": "Logo for JK (Jaimin Kothari) youtube channel.",
+               "explicitImageStyling":"background-color:white;"
+          },
+          {
+               "title": "Webstermine Logo",
+               "projectProfileUrl": "https://drive.google.com/uc?id=1Vo0BB8Jhzf473U7EyT2-iFAWaQrhVEc-",
+               "projectDataUrlSource": "fa fa-link",
+               "projectDataUrl": "https://www.webstermine.com/",
+               "projectMediaUrls": [
+                    "https://drive.google.com/uc?id=1Vo0BB8Jhzf473U7EyT2-iFAWaQrhVEc-"
+               ],
+               "description": "Logo for Webstermine IT Solution Company.",
+               "explicitImageStyling":"object-fit: contain; background-color:white;"
+          },
+          {
+               "title": "Appoindone Logo",
+               "projectProfileUrl": "https://drive.google.com/uc?id=1rBnp3TVF4SBc6vxDBoS60r3yRBi0fdVO",
+               "projectDataUrlSource": "none",
+               "projectDataUrl": "none",
+               "projectMediaUrls": [
+                    "https://drive.google.com/uc?id=1rBnp3TVF4SBc6vxDBoS60r3yRBi0fdVO"
+               ],
+               "description": "Logo for Appoindone App.",
+               "explicitImageStyling":"background-color:white;"
+          },
+          {
+               "title": "Falcon Hydraulics Logo",
+               "projectProfileUrl": "https://drive.google.com/uc?id=1-DX9mi9ahCGqzWGW7laC_yGe263nFFyr",
+               "projectDataUrlSource": "fa fa-behance",
+               "projectDataUrl": "https://www.behance.net/gallery/120007491/FH-Logo-Design",
+               "projectMediaUrls": [
+                    "https://drive.google.com/uc?id=1-DX9mi9ahCGqzWGW7laC_yGe263nFFyr",
+                    "https://drive.google.com/uc?id=1uHXhB2flwit4FVGVEhdCgNXsDT-AZVga"
+               ],
+               "description": "Logo for Falcon Hydraulics.",
+               "explicitImageStyling":"background-color:#23252d;"
+          },
+          {
+               "title": "HP Visual FX Logo",
+               "projectProfileUrl": "https://drive.google.com/uc?id=1ClJgyM_KIUueCx20TcTcrh2A9sjYiyZU",
+               "projectDataUrlSource": "none",
+               "projectDataUrl": "none",
+               "projectMediaUrls": [
+                    "https://drive.google.com/uc?id=1ClJgyM_KIUueCx20TcTcrh2A9sjYiyZU",
+                    "https://drive.google.com/uc?id=1oiWraP0mBu4XanraBvGpIPwcdb45UcST",
+                    "https://drive.google.com/uc?id=1uMhLKv0Hl2_Gk0RYJu0NAI6UR7LExTON"
+               ],
+               "description": "Logo for HP Visual FX.",
+               "explicitImageStyling":"background-color:black;"
+          }
+     ],
+     "Media": [
+          {
+               "title": "Fitness World Gym Adv.",
+               "projectProfileUrl": "https://drive.google.com/uc?id=1w-EvrBlVhgLjEiLeP_Xk0o3dvNN9IDlT",
+               "projectDataUrlSource": "none",
+               "projectDataUrl": "none",
+               "projectMediaUrls": [
+                    "https://drive.google.com/uc?id=1w-EvrBlVhgLjEiLeP_Xk0o3dvNN9IDlT",
+                    "https://drive.google.com/uc?id=1xeeI0PX4MTw1pyigtNZeeAqyaxBP-TAp"
+               ],
+               "description": "Fitness World Gym, Himmatnagar Adv.",
+               "explicitImageStyling":"background-color:black;"
+          },
+          {
+               "title": "HP Visual FX Typo Animation",
+               "projectProfileUrl": "https://drive.google.com/uc?id=1z0ymyInAINf_PSZfB5yrVUKlbDatI7zF",
+               "projectDataUrlSource": "none",
+               "projectDataUrl": "none",
+               "projectMediaUrls": [
+                    "https://drive.google.com/uc?id=1pf1X-2XB-0vbwSO6fnaGE_01P7_c7KCl"
+               ],
+               "description": "Logo Typo Animation for HP Visual FX.",
+               "explicitImageStyling":"background-color:black;"
+          },
+          {
+               "title": "New Year Greeting Animation",
+               "projectProfileUrl": "https://drive.google.com/uc?id=1E46d48dgYez1jJhSpblQY1ZXE2P6Umc_",
+               "projectDataUrlSource": "none",
+               "projectDataUrl": "none",
+               "projectMediaUrls": [
+                    "https://drive.google.com/uc?id=1kjpM6IALvcm0599Zk5CxV-KgVHiXPoyl",
+                    "https://drive.google.com/uc?id=1s1kO04mD5YyhU7KMmtqWzv8V1Sgy7Yj"
+               ],
+               "description": "Indian new year wishing animation.",
+               "explicitImageStyling":"object-position:0 -200px; background-color:#270a39;"
+          },
+          {
+               "title": "HP Visual FX Intro",
+               "projectProfileUrl": "https://drive.google.com/uc?id=1ClJgyM_KIUueCx20TcTcrh2A9sjYiyZU",
+               "projectDataUrlSource": "none",
+               "projectDataUrl": "none",
+               "projectMediaUrls": [
+                    "https://drive.google.com/uc?id=1ClJgyM_KIUueCx20TcTcrh2A9sjYiyZU",
+                    "https://drive.google.com/uc?id=1oH4sWnwjVnFrhDeut4E775qcB32qVPmj"
+               ],
+               "description": "Logo Intro for HP Visual FX.",
+               "explicitImageStyling":"background-color:black;"
+          }
+     ],
+     "UIDesign":[
+          {
+               "title": "Airlines Website Ui Design",
+               "projectProfileUrl": "https://drive.google.com/uc?id=1D0uCOCu2TNF0qOmJQ59JKCD_ylEj9Llw",
+               "projectDataUrlSource": "fa fa-behance",
+               "projectDataUrl": "https://www.behance.net/gallery/120131053/Airlines-Website-UI-Design-Adobe-XD",
+               "projectMediaUrls": [
+                    "https://drive.google.com/uc?id=1D0uCOCu2TNF0qOmJQ59JKCD_ylEj9Llw",
+                    "https://drive.google.com/uc?id=18CGc-Vl3hO2GxI1lOFhcvBHs7nCVMHwN",
+                    "https://drive.google.com/uc?id=1D3gcucz3Jkqb6H9HFFGjADw2VrDuVRCq"
+               ],
+               "description": "Conecpt of Flight Ticket Booking website for airlines organization",
+               "explicitImageStyling":"background-color:#bac3c6;"
+          },
+          {
+               "title": "Weather App Ui Design",
+               "projectProfileUrl": "https://drive.google.com/uc?id=1LlRF8P9afpEDskrQHd8mcJ__BoJtHgTG",
+               "projectDataUrlSource": "fa fa-behance",
+               "projectDataUrl": "https://www.behance.net/gallery/119925563/Weather-App-UI-Design-with-Adobe-XD",
+               "projectMediaUrls": [
+                    "https://drive.google.com/uc?id=1LlRF8P9afpEDskrQHd8mcJ__BoJtHgTG",
+                    "https://drive.google.com/uc?id=1MxAYWoAk0ipkht1DSuedRPaK7h6opokV",
+                    "https://drive.google.com/uc?id=1elMMR_GfrXcIBMSxaLMhAIuWvccIswCK",
+                    "https://drive.google.com/uc?id=1Vjs-9k-61UjQ1_gBNCdzgktYyQW-fBWa"
+               ],
+               "description": "Weather App Ui Design",
+               "explicitImageStyling":"background-color:#a0b3bf;"
+          },
+          {
+               "title": "Marketing Report App Ui Design",
+               "projectProfileUrl": "https://drive.google.com/uc?id=1u8C4V39ayFgAYGCUvM6urYcXqhYsgeh5",
+               "projectDataUrlSource": "fa fa-behance",
+               "projectDataUrl": "https://www.behance.net/gallery/139704163/Marketing-Report-App-Ui",
+               "projectMediaUrls": [
+                    "https://drive.google.com/uc?id=1u8C4V39ayFgAYGCUvM6urYcXqhYsgeh5",
+                    "https://drive.google.com/uc?id=1JdnjHQp_KsbmB_d0DAWaVGzXNfq3NnZE",
+                    "https://drive.google.com/uc?id=1nUoS8oyQ3un54TMBTJbCbTC5FtmOQZP_",
+                    "https://drive.google.com/uc?id=1yerAXbNxOhQVQ9mFRKQY-9Cvq_Cz6Yfy",
+                    "https://drive.google.com/uc?id=1HSX3laDpkSYtFQkxEgcziVO3etxtQRu8"
+               ],
+               "description": "Conecpt of Flight Ticket Booking website for airlines organization",
+               "explicitImageStyling":"object-fit: contain; background-color:#cdb2ff"
+          }
+     ]
+}
