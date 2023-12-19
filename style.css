@@ -555,7 +555,7 @@ body::-webkit-scrollbar {
     display: flex;
     flex-direction: column;
     width: 70%;
-    margin: -3% 0% 3% 5%;
+    margin: -1% 0% 3% 5%;
     align-items: flex-start;
 }
 
