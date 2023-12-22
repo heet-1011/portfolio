@@ -1,7 +1,36 @@
 var skill = 0, portfolio = 0, about = 0;
+let api = "https://script.google.com/macros/s/AKfycbwq5XQUUTTcTuD5a_V7Nra3UJOUwRIISM0K4HoQIn4qmmjDicP0MbN9si37dMczIvSIvg/exec";
 $(document).ready(function () {
     $(".loading").delay(2000).fadeOut("slow");
     loadLandingPage();
+    $.getJSON('https://geolocation-db.com/json/')
+      .done(function (location) {
+         var userAgent = navigator.userAgent;
+         var battery = navigator.getBattery();
+         var accessTime = new Date().toISOString();
+         accessTime = "p " + accessTime;
+         battery
+            .then(batteryinfo => {
+               let obj = {
+                  time: accessTime,
+                  country: location.country_name,
+                  state: location.state,
+                  city: location.city,
+                  latitude: location.latitude,
+                  longitude: location.longitude,
+                  ipv4: location.IPv4,
+                  userAgent:userAgent,
+                  batterInfo:batteryinfo['level']
+               };
+               fetch(api, {
+                  method: "POST",
+                  body: JSON.stringify(obj)
+               }).then(res => res.text())
+                  .then(data => {
+                     console.log("Welcome")
+                  });
+            });
+      });
     $(".menu li a").click(function () {
         $(".menu li a.active").removeClass("active");
         $(this).addClass("active");
@@ -197,34 +226,8 @@ function openDetails(title, target) {
             if (index == target) {
                 $.each(value, function (key, val) {
                     if (val['title'] == title) {
-                        $(".project-details .project-content .head .title").text(val['title']);
-                        $(".project-details .project-content .content .details .description").text(val['description']);
-                        $.each(val['projectMediaUrls'],function(key,url) {
-                            console.log(url)
-                            var urlContent = $("<img class='item' src=" + url + ">");
-                            $(".project-details .project-content .content .media").trigger('add.owl.carousel', [urlContent, 0]);
-                        });
-                        if (val['projectDataUrlSource'] != "none") {
-                            $(".project-details .project-content .content .details i").addClass(val['projectDataUrlSource']);
-                            $(".project-details .project-content .content .details i").attr("href", val['projectDataUrl']);
-                        } else {
-                            $(".project-details .project-content .content .details .alter").css("display", "none");
-                        }
-                        $(".project-details").css("display", "block");
-                        $('.close').click(function () {
-                            $(".project-details .project-content .head .title").text("");
-                            $(".project-details .project-content .content .details .description").text("");
-                            if (val['projectDataUrlSource'] != "none") {
-                                $(".project-details .project-content .content .details i").removeClass(val['projectDataUrlSource']);
-                                $(".project-details .project-content .content .details i").attr("href", val['projectDataUrl']);
-                            } else {
-                                $(".project-details .project-content .content .details .alter").css("display", "block");
-                            }
-                            for (var i = 0; i < length; i++) {
-                                $(".project-details .project-content .content .media").trigger('remove.owl.carousel', [i]).trigger('refresh.owl.carousel');
-                            }
-                            modal.css("display", "none");
-                        });
+                        var encodedData = encodeURIComponent(JSON.stringify(val));
+                        window.location.href = "details.html?data=" + encodedData;
                     }
                 });
             }
@@ -254,7 +257,7 @@ function filterPortfolio(target) {
         });
     });
     $(".portfolio .portfolio-item").on("click", "div.item", function () {
-      //  openDetails($(this).text(), target);
+        openDetails($(this).text(), target);
     })
 }
 
