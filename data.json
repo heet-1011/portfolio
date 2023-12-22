@@ -1,15 +1,18 @@
 {
-     "Android": [ 
+     "Android": [
           {
                "title": "Appoindone",
                "projectProfileUrl": "https://drive.google.com/uc?id=1rBnp3TVF4SBc6vxDBoS60r3yRBi0fdVO",
                "projectDataUrlSource": "fa fa-github",
                "projectDataUrl": "https://github.com/heet-1011/ap_trial",
                "projectMediaUrls": [
-                    "https://drive.google.com/uc?id="
+                    "p@https://drive.google.com/uc?id=1rBnp3TVF4SBc6vxDBoS60r3yRBi0fdVO"
+               ],
+               "projectThumbnailUrls": [
+                    "https://drive.google.com/uc?id=1rBnp3TVF4SBc6vxDBoS60r3yRBi0fdVO"
                ],
                "description": "This project aims to book an appointment of a doctor through a mobile application enabling person from any region to book an appointment according to their schedule and as per the availability of the specific doctor. Also they can check the crowdness level on any specific day and time. After the payment patient gets a digital token as a proof of confirm appointment in form of pdf. It is combined with many other features like keeping track of health of the user, searching according to location, etc.",
-               "explicitImageStyling":"background-color:white"
+               "explicitImageStyling": "background-color:white"
           },
           {
                "title": "Food Corner Billing App",
@@ -17,12 +20,17 @@
                "projectDataUrlSource": "fa fa-github",
                "projectDataUrl": "https://github.com/heet-1011/",
                "projectMediaUrls": [
-                    "https://drive.google.com/uc?id=1Du67qwhkQmbJ7aXZBy34MV-A0hzxpsT-",
-                    "https://drive.google.com/uc?id=1NlCxVgKEL1BKy6hl3NE1FSoHPhhfLmvE",
-                    "https://drive.google.com/uc?id=1iGVOpI4PuechVjBQyue6XlTWLK2eyOXt"
+                    "v@https://drive.google.com/uc?id=1iGVOpI4PuechVjBQyue6XlTWLK2eyOXt",
+                    "p@https://drive.google.com/uc?id=1Du67qwhkQmbJ7aXZBy34MV-A0hzxpsT-",
+                    "p@https://drive.google.com/uc?id=1NlCxVgKEL1BKy6hl3NE1FSoHPhhfLmvE"
+               ],
+               "projectThumbnailUrls": [
+                    "https://drive.google.com/uc?id=1Hx9ifN9TRP5PGOQi3DOjGpZyHLxl8qlo",
+                    "https://drive.google.com/uc?id=11yIt1DPqrpQHkXmqxKFTDxmW2S4_RUtN",
+                    "https://drive.google.com/uc?id=18_6QC3D8ipjKu86JsfCZk7aYGer590OO"
                ],
                "description": "This app aims to provide service to restaurant for maintaining their daily openings-closings and also to generate bill which is directly sent to customer via Whats-app.",
-               "explicitImageStyling":"background-color:#e6f9e6;"
+               "explicitImageStyling": "background-color:#e6f9e6;"
           },
           {
                "title": "Sign Language Translator",
@@ -30,11 +38,15 @@
                "projectDataUrlSource": "fa fa-github",
                "projectDataUrl": "https://github.com/heet-1011/sign_language_translator",
                "projectMediaUrls": [
-                    "https://drive.google.com/uc?id=1TEd7S41yVx5xQaBUlr_QMiLDj1TRtDpy",
-                    "https://drive.google.com/uc?id=1Ln6ygs-BN-2vKoM2-mVRKX12wX_T4p-5"
+                    "v@https://drive.google.com/uc?id=1Ln6ygs-BN-2vKoM2-mVRKX12wX_T4p-5",
+                    "p@https://drive.google.com/uc?id=1TEd7S41yVx5xQaBUlr_QMiLDj1TRtDpy"
+               ],
+               "projectThumbnailUrls": [
+                    "https://drive.google.com/uc?id=1o6-Wg0InthfWWE75wbubhF9wDrnquFXs",
+                    "https://drive.google.com/uc?id=1Z_MEKDj7oZ2xBE3YU7ZCz58HtG_xSjNs"
                ],
                "description": "This project provides one of the solutions to increase the communication of Deaf and Dumb peoples with the normal peoples. By using the capabilities of Machine Learning and Image processing algorithms available in TensorFlow Library we make the working mobile application. In which, user has to capture image as input and got the output in terms of text and audio. Also their is Frequent Phrases feature of our application, there is no need of capturing the photos just they need to press single button.",
-               "explicitImageStyling":"background-color:#fff4e6;"
+               "explicitImageStyling": "background-color:#fff4e6;"
           },
           {
                "title": "Marketing Report Application",
@@ -42,11 +54,15 @@
                "projectDataUrlSource": "fa fa-github",
                "projectDataUrl": "https://github.com/heet-1011/marketing_report",
                "projectMediaUrls": [
-                    "https://drive.google.com/uc?id=1x82u3s6vGsX1DL_nyQ_dkmZc_uDE-oZn",
-                    "https://drive.google.com/uc?id=1RSp5wypxHA33dtR0_QBgeQsVx2LSkXRx"
+                    "v@https://drive.google.com/uc?id=1RSp5wypxHA33dtR0_QBgeQsVx2LSkXRx",
+                    "p@https://drive.google.com/uc?id=1YCBuCsl7W_ovpZRO3UOSa-Qd1Tq54V24"
+               ],
+               "projectThumbnailUrls": [
+                    "https://drive.google.com/uc?id=1IvYLnwYCAXIxXi6gYawokB-G6XwVozCr",
+                    "https://drive.google.com/uc?id=1YCBuCsl7W_ovpZRO3UOSa-Qd1Tq54V24"
                ],
                "description": "Marketing Report Application is basically for dealers and their salesmen, where dealer use admin side app to check their salesmen daily visit's and visit details with geolocation's, while salesmen use the user side app to add their visit details with visit's geolocation.",
-               "explicitImageStyling":"background-color:white;"
+               "explicitImageStyling": "background-color:white;"
           }
      ],
      "Python": [
@@ -56,13 +72,19 @@
                "projectDataUrlSource": "none",
                "projectDataUrl": "none",
                "projectMediaUrls": [
+                    "p@https://drive.google.com/uc?id=188VGII15cmX9RREl84n-pD1P9Z6hpWN7",
+                    "p@https://drive.google.com/uc?id=1A2FkFGa3c-VHJ0X5H3SyI22dI7_MwkvU",
+                    "p@https://drive.google.com/uc?id=1gZI-OvvVdC1gCiU3OUDVEuBbKNCvWVK-",
+                    "p@https://drive.google.com/uc?id=1XVT__klAgmvYHfJkKaCSOhO-B-a2Jxbb"
+               ],
+               "projectThumbnailUrls": [
                     "https://drive.google.com/uc?id=188VGII15cmX9RREl84n-pD1P9Z6hpWN7",
                     "https://drive.google.com/uc?id=1A2FkFGa3c-VHJ0X5H3SyI22dI7_MwkvU",
                     "https://drive.google.com/uc?id=1gZI-OvvVdC1gCiU3OUDVEuBbKNCvWVK-",
                     "https://drive.google.com/uc?id=1XVT__klAgmvYHfJkKaCSOhO-B-a2Jxbb"
                ],
                "description": "Inventory management desktop software for Jewellery Shop, which can handle all sales and purchase of shop and also generate bill.",
-               "explicitImageStyling":"background-color:#c4ddf2;"
+               "explicitImageStyling": "background-color:#c4ddf2;"
           }
      ],
      "Logo": [
@@ -72,10 +94,13 @@
                "projectDataUrlSource": "fa fa-link",
                "projectDataUrl": "https://www.youtube.com/channel/UCDk6jK0cFzpT9GKzmlkjSRw",
                "projectMediaUrls": [
+                    "p@https://drive.google.com/uc?id=1iyx4cTMGaMC28TnqhVsxqAZKyY0gVaxs"
+               ],
+               "projectThumbnailUrls": [
                     "https://drive.google.com/uc?id=1iyx4cTMGaMC28TnqhVsxqAZKyY0gVaxs"
                ],
                "description": "Logo for JK (Jaimin Kothari) youtube channel.",
-               "explicitImageStyling":"background-color:white;"
+               "explicitImageStyling": "background-color:white;"
           },
           {
                "title": "Webstermine Logo",
@@ -83,10 +108,13 @@
                "projectDataUrlSource": "fa fa-link",
                "projectDataUrl": "https://www.webstermine.com/",
                "projectMediaUrls": [
+                    "p@https://drive.google.com/uc?id=1Vo0BB8Jhzf473U7EyT2-iFAWaQrhVEc-"
+               ],
+               "projectThumbnailUrls": [
                     "https://drive.google.com/uc?id=1Vo0BB8Jhzf473U7EyT2-iFAWaQrhVEc-"
                ],
                "description": "Logo for Webstermine IT Solution Company.",
-               "explicitImageStyling":"object-fit: contain; background-color:white;"
+               "explicitImageStyling": "object-fit: contain; background-color:white;"
           },
           {
                "title": "Appoindone Logo",
@@ -94,21 +122,29 @@
                "projectDataUrlSource": "none",
                "projectDataUrl": "none",
                "projectMediaUrls": [
+                    "p@https://drive.google.com/uc?id=1rBnp3TVF4SBc6vxDBoS60r3yRBi0fdVO"
+               ],
+               "projectThumbnailUrls": [
                     "https://drive.google.com/uc?id=1rBnp3TVF4SBc6vxDBoS60r3yRBi0fdVO"
                ],
                "description": "Logo for Appoindone App.",
-               "explicitImageStyling":"background-color:white;"
+               "explicitImageStyling": "background-color:white;"
           },
           {
                "title": "Gurudev Photography Logo",
-               "projectProfileUrl": "https://drive.google.com/uc?id=1uYPEn5vxFgpAQ4f1Qednb_zijFsXhl31",
+               "projectProfileUrl": "https://drive.google.com/uc?id=19pwqlC3P17j36Pnrqx2Cm3oUtVi5Jce6",
                "projectDataUrlSource": "fa fa-behance",
                "projectDataUrl": "https://www.behance.net/gallery/172412371/Gurudev-Photography-Logo",
                "projectMediaUrls": [
-                    "https://drive.google.com/uc?id=1uYPEn5vxFgpAQ4f1Qednb_zijFsXhl31"
+                    "p@https://drive.google.com/uc?id=17qoqh4MPb5GAt8OztrA2W7OwpFZUr9jv",
+                    "p@https://drive.google.com/uc?id=19pwqlC3P17j36Pnrqx2Cm3oUtVi5Jce6"
+               ],
+               "projectThumbnailUrls": [
+                    "https://drive.google.com/uc?id=17qoqh4MPb5GAt8OztrA2W7OwpFZUr9jv",
+                    "https://drive.google.com/uc?id=19pwqlC3P17j36Pnrqx2Cm3oUtVi5Jce6"
                ],
                "description": "Logo for Gurudev Photography Studio.",
-               "explicitImageStyling":"background-color:white;"
+               "explicitImageStyling": "background-color:white;"
           },
           {
                "title": "Falcon Hydraulics Logo",
@@ -116,11 +152,15 @@
                "projectDataUrlSource": "fa fa-behance",
                "projectDataUrl": "https://www.behance.net/gallery/120007491/FH-Logo-Design",
                "projectMediaUrls": [
+                    "p@https://drive.google.com/uc?id=1-DX9mi9ahCGqzWGW7laC_yGe263nFFyr",
+                    "p@https://drive.google.com/uc?id=1uHXhB2flwit4FVGVEhdCgNXsDT-AZVga"
+               ],
+               "projectThumbnailUrls": [
                     "https://drive.google.com/uc?id=1-DX9mi9ahCGqzWGW7laC_yGe263nFFyr",
                     "https://drive.google.com/uc?id=1uHXhB2flwit4FVGVEhdCgNXsDT-AZVga"
                ],
                "description": "Logo for Falcon Hydraulics.",
-               "explicitImageStyling":"background-color:#23252d;"
+               "explicitImageStyling": "background-color:#23252d;"
           },
           {
                "title": "HP Visual FX Logo",
@@ -128,12 +168,17 @@
                "projectDataUrlSource": "none",
                "projectDataUrl": "none",
                "projectMediaUrls": [
+                    "p@https://drive.google.com/uc?id=1ClJgyM_KIUueCx20TcTcrh2A9sjYiyZU",
+                    "p@https://drive.google.com/uc?id=1oiWraP0mBu4XanraBvGpIPwcdb45UcST",
+                    "p@https://drive.google.com/uc?id=1uMhLKv0Hl2_Gk0RYJu0NAI6UR7LExTON"
+               ],
+               "projectThumbnailUrls": [
                     "https://drive.google.com/uc?id=1ClJgyM_KIUueCx20TcTcrh2A9sjYiyZU",
                     "https://drive.google.com/uc?id=1oiWraP0mBu4XanraBvGpIPwcdb45UcST",
                     "https://drive.google.com/uc?id=1uMhLKv0Hl2_Gk0RYJu0NAI6UR7LExTON"
                ],
                "description": "Logo for HP Visual FX.",
-               "explicitImageStyling":"background-color:black;"
+               "explicitImageStyling": "background-color:black;"
           }
      ],
      "Media": [
@@ -143,11 +188,15 @@
                "projectDataUrlSource": "none",
                "projectDataUrl": "none",
                "projectMediaUrls": [
-                    "https://drive.google.com/uc?id=1w-EvrBlVhgLjEiLeP_Xk0o3dvNN9IDlT",
-                    "https://drive.google.com/uc?id=1xeeI0PX4MTw1pyigtNZeeAqyaxBP-TAp"
+                    "v@https://drive.google.com/uc?id=1xeeI0PX4MTw1pyigtNZeeAqyaxBP-TAp",
+                    "p@https://drive.google.com/uc?id=1w-EvrBlVhgLjEiLeP_Xk0o3dvNN9IDlT"
+               ],
+               "projectThumbnailUrls": [
+                    "https://drive.google.com/uc?id=1rG5jZxoEG9CbhSGLisjODNtlI2WYBSPZ",
+                    "https://drive.google.com/uc?id=1w-EvrBlVhgLjEiLeP_Xk0o3dvNN9IDlT"
                ],
                "description": "Fitness World Gym, Himmatnagar Adv.",
-               "explicitImageStyling":"background-color:black;"
+               "explicitImageStyling": "background-color:black;"
           },
           {
                "title": "HP Visual FX Typo Animation",
@@ -155,10 +204,13 @@
                "projectDataUrlSource": "none",
                "projectDataUrl": "none",
                "projectMediaUrls": [
-                    "https://drive.google.com/uc?id=1pf1X-2XB-0vbwSO6fnaGE_01P7_c7KCl"
+                    "v@https://drive.google.com/uc?id=1pf1X-2XB-0vbwSO6fnaGE_01P7_c7KCl"
+               ],
+               "projectThumbnailUrls": [
+                    "https://drive.google.com/uc?id=1gTuG2ZJA93zI2b47ax2DeXpBFJS8GFv3"
                ],
                "description": "Logo Typo Animation for HP Visual FX.",
-               "explicitImageStyling":"background-color:black;"
+               "explicitImageStyling": "background-color:black;"
           },
           {
                "title": "New Year Greeting Animation",
@@ -166,11 +218,17 @@
                "projectDataUrlSource": "none",
                "projectDataUrl": "none",
                "projectMediaUrls": [
-                    "https://drive.google.com/uc?id=1kjpM6IALvcm0599Zk5CxV-KgVHiXPoyl",
-                    "https://drive.google.com/uc?id=1s1kO04mD5YyhU7KMmtqWzv8V1Sgy7Yj"
+                    "v@https://drive.google.com/uc?id=1kjpM6IALvcm0599Zk5CxV-KgVHiXPoyl",
+                    "v@https://drive.google.com/uc?id=1s1kO04mD5YyhU7KMmtqWzv8V1Sgy7Yj-",
+                    "p@https://drive.google.com/uc?id=1E46d48dgYez1jJhSpblQY1ZXE2P6Umc_"
+               ],
+               "projectThumbnailUrls": [
+                    "https://drive.google.com/uc?id=1JKPwxq4WgkBBoYNvqRRh3zzCHmX1_biN",
+                    "https://drive.google.com/uc?id=1PE6umiNqzfecXiatRyBnFWymPJ6wV1ZZ",
+                    "https://drive.google.com/uc?id=1iIDO7z3HwePBPSGNWD5ABnK2oBa5hYg7"
                ],
                "description": "Indian new year wishing animation.",
-               "explicitImageStyling":"object-position:0 -200px; background-color:#270a39;"
+               "explicitImageStyling": "object-position:0 -200px; background-color:#270a39;"
           },
           {
                "title": "HP Visual FX Intro",
@@ -178,26 +236,35 @@
                "projectDataUrlSource": "none",
                "projectDataUrl": "none",
                "projectMediaUrls": [
-                    "https://drive.google.com/uc?id=1ClJgyM_KIUueCx20TcTcrh2A9sjYiyZU",
-                    "https://drive.google.com/uc?id=1oH4sWnwjVnFrhDeut4E775qcB32qVPmj"
+                    "v@https://drive.google.com/uc?id=1oH4sWnwjVnFrhDeut4E775qcB32qVPmj",
+                    "p@https://drive.google.com/uc?id=1ClJgyM_KIUueCx20TcTcrh2A9sjYiyZU"
+               ],
+               "projectThumbnailUrls": [
+                    "https://drive.google.com/uc?id=1RB8oz1lrD0jNc94S5X9MCtp5hu77F__w",
+                    "https://drive.google.com/uc?id=1ClJgyM_KIUueCx20TcTcrh2A9sjYiyZU"
                ],
                "description": "Logo Intro for HP Visual FX.",
-               "explicitImageStyling":"background-color:black;"
+               "explicitImageStyling": "background-color:black;"
           }
      ],
-     "UIDesign":[
+     "UIDesign": [
           {
                "title": "Airlines Website Ui Design",
                "projectProfileUrl": "https://drive.google.com/uc?id=1D0uCOCu2TNF0qOmJQ59JKCD_ylEj9Llw",
                "projectDataUrlSource": "fa fa-behance",
                "projectDataUrl": "https://www.behance.net/gallery/120131053/Airlines-Website-UI-Design-Adobe-XD",
                "projectMediaUrls": [
-                    "https://drive.google.com/uc?id=1D0uCOCu2TNF0qOmJQ59JKCD_ylEj9Llw",
-                    "https://drive.google.com/uc?id=18CGc-Vl3hO2GxI1lOFhcvBHs7nCVMHwN",
-                    "https://drive.google.com/uc?id=1D3gcucz3Jkqb6H9HFFGjADw2VrDuVRCq"
+                    "v@https://drive.google.com/uc?id=1D3gcucz3Jkqb6H9HFFGjADw2VrDuVRCq",
+                    "p@https://drive.google.com/uc?id=1D0uCOCu2TNF0qOmJQ59JKCD_ylEj9Llw",
+                    "p@https://drive.google.com/uc?id=18CGc-Vl3hO2GxI1lOFhcvBHs7nCVMHwN"
+               ],
+               "projectThumbnailUrls": [
+                    "https://drive.google.com/uc?id=1ZlGVpmR1_SQgMi1tShP9h7K-mCz_ffHl",
+                    "https://drive.google.com/uc?id=1X-lSRFtwuYB3n1ChsO5QW0HwvWATpDfS",
+                    "https://drive.google.com/uc?id=1UaBbX1EHlUO4nGI8hLNIf92OArQ2hdnc"
                ],
                "description": "Conecpt of Flight Ticket Booking website for airlines organization",
-               "explicitImageStyling":"background-color:#bac3c6;"
+               "explicitImageStyling": "background-color:#bac3c6;"
           },
           {
                "title": "Weather App Ui Design",
@@ -205,13 +272,19 @@
                "projectDataUrlSource": "fa fa-behance",
                "projectDataUrl": "https://www.behance.net/gallery/119925563/Weather-App-UI-Design-with-Adobe-XD",
                "projectMediaUrls": [
-                    "https://drive.google.com/uc?id=1LlRF8P9afpEDskrQHd8mcJ__BoJtHgTG",
-                    "https://drive.google.com/uc?id=1MxAYWoAk0ipkht1DSuedRPaK7h6opokV",
-                    "https://drive.google.com/uc?id=1elMMR_GfrXcIBMSxaLMhAIuWvccIswCK",
-                    "https://drive.google.com/uc?id=1Vjs-9k-61UjQ1_gBNCdzgktYyQW-fBWa"
+                    "p@https://drive.google.com/uc?id=1LlRF8P9afpEDskrQHd8mcJ__BoJtHgTG",
+                    "p@https://drive.google.com/uc?id=1MxAYWoAk0ipkht1DSuedRPaK7h6opokV",
+                    "p@https://drive.google.com/uc?id=1elMMR_GfrXcIBMSxaLMhAIuWvccIswCK",
+                    "p@https://drive.google.com/uc?id=1Vjs-9k-61UjQ1_gBNCdzgktYyQW-fBWa"
+               ],
+               "projectThumbnailUrls": [
+                    "https://drive.google.com/uc?id=1y0E8187GsFQy2Ab906I49OFl_6HI1GJ4",
+                    "https://drive.google.com/uc?id=1o3DSuvV9VQpqlRZ7kzU3lG50K4ImOaER",
+                    "https://drive.google.com/uc?id=1-yrQU1t5Guot9DdewsnOU5SUYwSIE8JX",
+                    "https://drive.google.com/uc?id=170bmTFz3NWq_srDF0hI3Rh73qOV0z6hc"
                ],
                "description": "Weather App Ui Design",
-               "explicitImageStyling":"background-color:#a0b3bf;"
+               "explicitImageStyling": "background-color:#a0b3bf;"
           },
           {
                "title": "Marketing Report App Ui Design",
@@ -219,6 +292,13 @@
                "projectDataUrlSource": "fa fa-behance",
                "projectDataUrl": "https://www.behance.net/gallery/139704163/Marketing-Report-App-Ui",
                "projectMediaUrls": [
+                    "p@https://drive.google.com/uc?id=1u8C4V39ayFgAYGCUvM6urYcXqhYsgeh5",
+                    "p@https://drive.google.com/uc?id=1JdnjHQp_KsbmB_d0DAWaVGzXNfq3NnZE",
+                    "p@https://drive.google.com/uc?id=1nUoS8oyQ3un54TMBTJbCbTC5FtmOQZP_",
+                    "p@https://drive.google.com/uc?id=1yerAXbNxOhQVQ9mFRKQY-9Cvq_Cz6Yfy",
+                    "p@https://drive.google.com/uc?id=1HSX3laDpkSYtFQkxEgcziVO3etxtQRu8"
+               ],
+               "projectThumbnailUrls": [
                     "https://drive.google.com/uc?id=1u8C4V39ayFgAYGCUvM6urYcXqhYsgeh5",
                     "https://drive.google.com/uc?id=1JdnjHQp_KsbmB_d0DAWaVGzXNfq3NnZE",
                     "https://drive.google.com/uc?id=1nUoS8oyQ3un54TMBTJbCbTC5FtmOQZP_",
@@ -226,7 +306,39 @@
                     "https://drive.google.com/uc?id=1HSX3laDpkSYtFQkxEgcziVO3etxtQRu8"
                ],
                "description": "Conecpt of Flight Ticket Booking website for airlines organization",
-               "explicitImageStyling":"object-fit: contain; background-color:#cdb2ff"
+               "explicitImageStyling": "object-fit: contain; background-color:#cdb2ff"
+          }
+     ],
+     "Graphics": [
+          {
+               "title": "Expert Talks Poster.",
+               "projectProfileUrl": "https://drive.google.com/uc?id=1fqzzwLgeRY57zIOAaleGmxw5X8b_3yRr",
+               "projectDataUrlSource": "none",
+               "projectDataUrl": "none",
+               "projectMediaUrls": [
+                    "p@https://drive.google.com/uc?id=1fqzzwLgeRY57zIOAaleGmxw5X8b_3yRr"
+               ],
+               "projectThumbnailUrls": [
+                    "https://drive.google.com/uc?id=1c1f3F7EKlbcS2TyqjbnlLIgK8GGUveK7"
+               ],
+               "description": "Graphics Design Poster for Expert Talks",
+               "explicitImageStyling": "background-color:#c00000;"
+          },
+          {
+               "title": "Music Event Poster",
+               "projectProfileUrl": "https://drive.google.com/uc?id=1GuoXncFcEBrls8WU9pbPrYvNHILfy-1E",
+               "projectDataUrlSource": "none",
+               "projectDataUrl": "none",
+               "projectMediaUrls": [
+                    "v@https://drive.google.com/uc?id=1ipd9PL24YtaRXIZpjY0tMspW-r-nndYy",
+                    "p@https://drive.google.com/uc?id=1GuoXncFcEBrls8WU9pbPrYvNHILfy-1E"
+               ],
+               "projectThumbnailUrls": [
+                    "https://drive.google.com/uc?id=1LNb0DwT69XqK2qRwWpGWwKdRw3FPYwKR",
+                    "https://drive.google.com/uc?id=1FQp6ybkVFBv7kfIiW25scYbtq6JUqXLl"
+               ],
+               "description": "Graphics Design Poster for Music Event",
+               "explicitImageStyling": "background-color:#1ba5e7;"
           }
      ]
 }
